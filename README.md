@@ -1,4 +1,4 @@
-# Project-2-To_Do_List
+# To_Do_List
 This is my second project on Python
 <br>
 Topic- A To Do List
