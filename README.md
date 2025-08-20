@@ -12,4 +12,4 @@ Topic- A To Do List
 3.index function- to find elements
 <br>
 *********** TASK IT PERFORM *****<br>
-<p>Its collect daily task from user and stored it in a list,it also can perform Addition of new task , updating task ,deleting task,viewing the new added or updated or deleted list and most importantly it reuns untill the user itself command to Stop or end.</p>
+Its collect daily task from user and stored it in a list,it also can perform Addition of new task , updating task ,deleting task,viewing the new added or updated or deleted list and most importantly it reuns untill the user itself command to Stop or end.
